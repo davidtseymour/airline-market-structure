@@ -7,3 +7,5 @@ https://www.ingentaconnect.com/contentone/lse/jtep/2024/00000058/00000002/art000
 
 The data is available at:
 - https://doi.org/10.7910/DVN/IUVNCX
+
+Download delay.csv from Harvard Dataverse and place in /data. Run AirlineRegression.do on "data/delay.csv" 
