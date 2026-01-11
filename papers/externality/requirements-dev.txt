@@ -1,0 +1,5 @@
+-r requirements.txt
+jupyterlab==4.5.1
+notebook==7.5.1
+nbconvert==7.16.6
+nbformat==5.10.4
