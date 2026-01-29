@@ -1,7 +1,7 @@
 # airline-market-structure
 Code supporting the replication of research on the role of airline market structure in determining airline delays.
 
-This repository contains the data-processing pipelines and regression code used to produce the main tables and robustness checks for the accompanying paper(s). The workflow is:
+This repository contains the data-processing pipelines and regression code used to produce the main tables and robustness checks for the accompanying papers. The workflow is:
 
 1. Build analysis samples from a local database that integrates public sources (DOT OTP, NOAA LCD, FAA aircraft registry, BEA metro GDP, ACS).
 2. Export analysis-ready CSV files.
