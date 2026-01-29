@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 from pathlib import Path
 
-from replication_package.gen_sample_pipeline import (
+from pipelines.generate_sample import (
     create_sub_sample, determine_percent_flights, add_tail_numbers,
     add_segment, add_market_structure, misspecification_test, add_metro_level_statistics, get_depart_datetime,
     add_husize_dummies, add_hubsize_interactions, add_lagged_hubsize_interactions, create_merger_ids, add_weather_data,
